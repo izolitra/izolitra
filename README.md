@@ -52,10 +52,3 @@
   <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
   <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" />
 </p>
-
----
-
-### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
-
-- telegram: [@izolitra](https://t.me/izolitra)
-- email: [yaroslavkurinnoy@mail.ru](mailto:yaroslavkurinnoy@mail.ru)
